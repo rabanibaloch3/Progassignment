@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// By Ghulam Rabbani,1st semester,RollNo.13
 int main()
 {
 
